@@ -14,3 +14,8 @@ Analysis:
 5. what is the average price/order per person?
 6. Which products are the best- selling in terms of quantity and revenue?
 7. How do sales vary by product category and type?
+
+# Screenshot
+
+
+![Screenshot 2024-03-01 135758](https://github.com/praddyotahayaran/Coffee-Shop-Sales/assets/94554048/a3b6ae92-c00c-46ef-a97b-9604f7b44118)
