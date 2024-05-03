@@ -18,4 +18,4 @@ Analysis:
 # Screenshot
 
 
-![Screenshot 2024-03-01 135758](https://github.com/praddyotahayaran/Coffee-Shop-Sales/assets/94554048/a3b6ae92-c00c-46ef-a97b-9604f7b44118)
+![Screenshot ](https://github.com/praddyotahayaran/Coffee-Shop-Sales/assets/94554048/a36a9469-5828-4584-8a71-6cd2d4b85493)
